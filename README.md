@@ -1,3 +1,11 @@
+
+# 解析
+## 2019-3-11
+
+1. BaseActivity存放到main模块中，方便各个module使用
+    基类中做了很多处理，友盟统计、EventBus的处理、网络弹窗、所有Activity的收集
+
+
 # 趣享GIF开源版 v1.0.3
 
 <img src="screenshots/giffun_demo.gif" width="240" align="right" hspace="20">
